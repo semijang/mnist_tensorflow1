@@ -1,9 +1,6 @@
 import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior()
 
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
-from tensorflow.keras.utils import to_categorical
 #import keras 
 import pandas as pd
 
